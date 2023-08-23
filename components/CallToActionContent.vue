@@ -3,7 +3,7 @@
     <h1
       class="w-full my-2 text-5xl font-bold leading-tight text-center text-white"
     >
-      Call to Action
+      RFMP & RFST
     </h1>
     <div class="w-full mb-4">
       <div
@@ -12,7 +12,7 @@
     </div>
 
     <h3 class="my-4 text-3xl leading-tight">
-      Main Hero Message to sell yourself!
+      RF Merah Putih & RF Sinar Terang
     </h3>
 
     <button

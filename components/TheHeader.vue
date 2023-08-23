@@ -31,21 +31,21 @@
             <a
               class="inline-block py-2 px-4 text-black font-bold no-underline"
               href="#"
-              >Active</a
+              >Rafliansyah</a
+            >
+          </li>
+          <li class="mr-3">
+            <a
+              class="inline-block text-black no-underline hover:text-gray-800 hover:text-underline py-2 px-4"
+              href="components/Features"
+              >RFMP</a
             >
           </li>
           <li class="mr-3">
             <a
               class="inline-block text-black no-underline hover:text-gray-800 hover:text-underline py-2 px-4"
               href="#"
-              >link</a
-            >
-          </li>
-          <li class="mr-3">
-            <a
-              class="inline-block text-black no-underline hover:text-gray-800 hover:text-underline py-2 px-4"
-              href="#"
-              >link</a
+              >RFCT</a
             >
           </li>
         </ul>
@@ -53,7 +53,7 @@
           :class="navActionClassList"
           class="mx-auto lg:mx-0 hover:underline font-bold rounded-full mt-4 lg:mt-0 py-4 px-8 shadow opacity-75"
         >
-          Action
+          Contact
         </button>
       </div>
     </div>

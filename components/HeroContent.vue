@@ -9,22 +9,23 @@
       >
         <p class="uppercase tracking-loose w-full">What business are you?</p>
         <h1 class="my-4 text-5xl font-bold leading-tight">
-          Main Hero Message to sell yourself!
+        Muhamad Rafliansyah
         </h1>
         <p class="leading-normal text-2xl mb-8">
-          Sub-hero message, not too long and not too short. Make it just right!
+          Saya merupakan Mahasiswa Fakultas Teknik Informatika universitas Pasundan Bandung angkatan 2020, Usia saya 17 tahun, Sambil menjalani kuliah Saya memiliki 2 Bidang Business kecil Online maupun offline dengan nama RFMP & RFST.
         </p>
 
         <button
           class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg"
         >
-          Subscribe
+          Contact
         </button>
       </div>
       <!--Right Col-->
       <div class="w-full md:w-3/5 py-6 text-center">
-        <img class="w-full md:w-4/5 z-50" src="~/assets/img/hero.png" alt />
-      </div>
+      <img class="w-full md:w-4/5 z-50 float-right" src="~/assets/img/RF2.png" alt />
+     </div>
+
     </div>
   </div>
 </template>

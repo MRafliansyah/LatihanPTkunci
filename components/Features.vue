@@ -4,7 +4,7 @@
       <h1
         class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800"
       >
-        Title
+        RFMP & RFST
       </h1>
       <div class="w-full mb-4">
         <div
@@ -12,16 +12,17 @@
         ></div>
       </div>
       <feature-right
-        headline="Lorem ipsum dolor sit amet"
-        content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula."
+        headline="RFMerahPutih"
+        content="Business pertama saya bergerak pada bidang penjualan Bendera Merah Putih dan perlengkapan untuk memperingati hari jadi Indonesia,Saya melakukan penjualan melalui offline dan online,Melayani pemesanan untuk grosir dan ecer untuk grosir S&K Berlaku,Siap Melakukan Pengiriman barang keseluruh indonesia."
       >
-        <img src="~assets/img/travel-booking.svg?inline" alt slot="svg" />
+        <img src="~assets/img/RF.jpg" alt slot="svg" />
       </feature-right>
+      
       <feature-left
-        headline="Lorem ipsum dolor sit amet"
-        content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula."
+        headline="RFSinarTerang"
+        content="Business kedua saya bergerak pada bidang perlengkapan elektronik,Saya melakukan penjualan melalui offline dengan lokasi toko di Garut Melayani pebelian ecer ataupun grosir,dengan berjalannya waktu pada tahun ini saya akan Membuka toko online pada setiap marketplace dan Siap melakukan pengiriman keseluruh indonesia."
       >
-        <img src="~assets/img/connected-world.svg?inline" alt slot="svg" />
+        <img src="~assets/img/RFCT.png" alt slot="svg"/>
       </feature-left>
     </div>
   </section>
